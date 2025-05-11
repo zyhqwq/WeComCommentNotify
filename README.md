@@ -1,5 +1,4 @@
-# WeComCommentNotify
-## Typecho插件
+# WeComCommentNotify--Typecho插件
 ## 核心特性
 **精准时间控制**
 - 多时区支持（中国/日本/美国/欧洲等）
