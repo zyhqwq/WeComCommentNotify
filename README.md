@@ -1,4 +1,5 @@
 # WeComCommentNotify--Typecho插件
+Deepseek生成的，效果很不错
 ## 核心特性
 **精准时间控制**
 - 多时区支持（中国/日本/美国/欧洲等）
